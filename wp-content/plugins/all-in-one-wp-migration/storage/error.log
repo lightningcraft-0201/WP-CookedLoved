@@ -1,0 +1,9 @@
+Oct 08 2023 23:19:26
+{"Number":8,"Message":"fwrite(): Write of 133058 bytes failed with errno=28 No space left on device","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":474}
+
+Oct 08 2023 23:19:26
+{"Number":8,"Message":"fwrite(): Write of 8497 bytes failed with errno=28 No space left on device","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":474}
+
+Oct 08 2023 23:19:26
+{"type":8,"message":"fwrite(): Write of 281 bytes failed with errno=28 No space left on device","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\functions.php","line":1341}
+
