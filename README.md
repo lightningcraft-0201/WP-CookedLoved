@@ -23,7 +23,7 @@ Irena Macri is more than just a chef; she's a culinary artist with a heart for a
 - **Google Fonts**: Accessible and visually appealing typography to enhance the site's design.
 - **Figma**: Utilized for design, ensuring a seamless and visually appealing user interface.
 
-![Figma Design](figma.png)
+![Figma Design](https://github.com/DevRex-0201/WP-CookedLoved/blob/main/wp-content/home.png)
 
 ## Installation and Setup
 
