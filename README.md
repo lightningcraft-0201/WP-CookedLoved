@@ -4,7 +4,7 @@ Welcome to the Cooked & Loved WordPress Project repository! This project represe
 
 **Live Site URL**: [Cooked & Loved](https://www.cookedandloved.com)
 
-![Cooked & Loved](preview.png)
+![Cooked & Loved](https://github.com/DevRex-0201/WP-CookedLoved/blob/main/wp-content/home.png)
 
 ## About Cooked & Loved
 
@@ -22,8 +22,6 @@ Irena Macri is more than just a chef; she's a culinary artist with a heart for a
 - **JQuery**: A fast and feature-rich JavaScript library, enhancing interactivity and user experience.
 - **Google Fonts**: Accessible and visually appealing typography to enhance the site's design.
 - **Figma**: Utilized for design, ensuring a seamless and visually appealing user interface.
-
-![Figma Design](https://github.com/DevRex-0201/WP-CookedLoved/blob/main/wp-content/home.png)
 
 ## Installation and Setup
 
