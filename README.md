@@ -4,7 +4,7 @@ Welcome to the Cooked & Loved WordPress Project repository! This project represe
 
 **Live Site URL**: [Cooked & Loved](https://www.cookedandloved.com)
 
-![Cooked & Loved](https://github.com/DevRex-0201/WP-CookedLoved/blob/main/wp-content/home.png)
+![Cooked & Loved](https://github.com/DevRex-0201/Project-Images/blob/main/web/WP-CookedLoved-Preview.jpeg)
 
 ## About Cooked & Loved
 
